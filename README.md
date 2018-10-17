@@ -2,7 +2,7 @@
 
 Are you looking for more friends but feel too awkward approaching classmates in person? Are you struggling to start conversations without any knowledge of a students similar interests? Well guess what, you are not alone. Welcome to People Are People!
 
-Our app connects like-minded students together efficiently, because who has time to mingle in-person these days?? To get started, register as a user and pick some interests - we'll take over from there.
+Our app connects like-minded students together efficiently, because who has time to mingle in-person these days? To get started, register as a user and pick some interests - we'll take over from there.
 
 ## User Stories:
 
